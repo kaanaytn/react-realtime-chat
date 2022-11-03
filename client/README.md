@@ -1,8 +1,11 @@
 ## Kullanılan Teknolojiler
+
 ### Frontend
+
 - React
 
 ### Backend
+
 - Node.js
 - Express.js
 - Socket.io
