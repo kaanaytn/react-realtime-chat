@@ -15,6 +15,12 @@
     overflow: auto;
 }
 
+.scrollbar {
+    display: none;
+    -ms-overflow-style: none;
+    overflow: hidden;
+}
+
 .textInput {
     border: solid 1px rgb(184, 184, 184);
     padding: 10px;
