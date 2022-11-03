@@ -1,3 +1,17 @@
+## Kullanılan Teknolojiler
+### Frontend
+- React
+
+### Backend
+- Node.js
+- Express.js
+- Socket.io
+- Redis
+
+# İmages
+
+![alt text](https://i.hizliresim.com/p56fe1s.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
